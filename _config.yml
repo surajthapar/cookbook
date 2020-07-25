@@ -21,6 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://burp.watch" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
 google_analytics: UA-173539067-1
+google_tag_manger: GTM-MBCTJNJ
 
 # Build settings
 markdown: kramdown
