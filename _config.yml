@@ -18,10 +18,8 @@ email: hello@burp.watch
 description: >- # this means to ignore newlines until "baseurl:"
   Amateur Cookbook
 baseurl: "/hitchens" # the subpath of your site, e.g. /blog
-url: "https://surajthapar.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "burp.watch" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
-twitter_username: patdryburgh
-github_username:  patdryburgh
 
 # Build settings
 markdown: kramdown
