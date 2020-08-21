@@ -34,7 +34,7 @@ categories: recipe
 1. Ghee - *2 tbsp*
 2. Onion - *1/4 cup (thinly sliced)*
 
-### Method
+### Steps
 
 1. Dry roast the ingredients for Dry Roasting in a pan until slightly browned.
 2. Remove on a plate and let them cool.
