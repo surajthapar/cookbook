@@ -31,13 +31,13 @@ categories: recipe
 7. Just before pouring the batter into the cake tin, add eno fruit salt and mix it gently.
 8. Pour the batter immediately into the cake tin.
 9. Place the cake tin a closed pan/steam cooker and steam cook the dhokla for about 25-30 mins on medium flame.
-11. Heat a pan with some oil, add mustard seeds and let it splutter.
-12. Add green chilies, and curry leaves.
-13. After few mins, pour water, add salt, sugar.
-14. Bring it to a boil and turn off the stove.
-15. Add lemon juice, coriander leaves and stir well.
-16. Check the dhokla and let it come to room temperature.
-17. Take the dhokla from the cake tin and cut it into squares.
-18. Pour the tempered ingredients onto the dhokla.
-19. Let the dhokla soak in the tempering.
-20. Finally garnish it with grated coconut and coriander leaves.
+10. Heat a pan with some oil, add mustard seeds and let it splutter.
+11. Add green chilies, and curry leaves.
+12. After few mins, pour water, add salt, sugar.
+13. Bring it to a boil and turn off the stove.
+14. Add lemon juice, coriander leaves and stir well.
+15. Check the dhokla and let it come to room temperature.
+16. Take the dhokla from the cake tin and cut it into squares.
+17. Pour the tempered ingredients onto the dhokla.
+18. Let the dhokla soak in the tempering.
+19. Finally garnish it with grated coconut and coriander leaves.
