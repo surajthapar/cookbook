@@ -1,5 +1,5 @@
 ---
-title: Dhokla with Syrup
+title: Dhokla
 layout: post
 author: ""
 categories: recipe
