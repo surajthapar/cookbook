@@ -23,7 +23,7 @@ categories: recipe
 
 ### Steps
 1. In a bowl, add gram flour, sugar, salt, and turmeric powder. Mix well.
-2. Add enough water and wisk well to get a flowing consistency. The batter should not be very thick.
+2. Add enough water and whisk well to get a flowing consistency. The batter should not be very thick.
 3. Rest the batter for about 10 mins.
 4. Grease a cake tin with some oil.
 5. Heat a pressure cooker/ pot with some water.
