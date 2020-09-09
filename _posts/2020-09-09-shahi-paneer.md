@@ -33,7 +33,7 @@ categories: recipe
 2. Fresh coriander leaves - 1 tbsp (chopped)
 3. Kasuri methi - 1 tsp
 
-#### Steps 
+### Steps 
 1. Set a pan on medium heat, add oil, jeera, cinnamon, black peppercorn and green cardamom, sauté it for minute, further add onions and cook it for 5-7 minutes.
 2. Add ginger garlic paste and cashew nuts, mix and cook for 2 minutes.
 3. Now add tomatoes and salt to taste, cook until the tomatoes are mushy. 
