@@ -5,8 +5,8 @@ author: ""
 categories: recipe
 ---
 
-###Ingredients
-####Shahi Paneer Gravy
+### Ingredients
+#### Shahi Paneer Gravy
                                                            
 1. Oil - 3 tbsp
 2. Jeera - 1 tsp
@@ -22,18 +22,18 @@ categories: recipe
 12. Turmeric powder - ½ tsp
 13. Red chilli powder - 1 tbsp
 
-####Paneer sauté
+#### Paneer sauté
 1. Oil 2 tbsp + butter - 1 tbsp
 2. Green chillies - 2-3 nos. (slit)
 3. Ginger - 1 inch (juliennes)
 4. Paneer - 250 gm (cubes)
 
-####Garnishing 
+#### Garnishing 
 1. Fresh cream - 1/4th cup
 2. Fresh coriander leaves - 1 tbsp (chopped)
 3. Kasuri methi - 1 tsp
 
-####Steps 
+#### Steps 
 1. Set a pan on medium heat, add oil, jeera, cinnamon, black peppercorn and green cardamom, sauté it for minute, further add onions and cook it for 5-7 minutes.
 2. Add ginger garlic paste and cashew nuts, mix and cook for 2 minutes.
 3. Now add tomatoes and salt to taste, cook until the tomatoes are mushy. 
